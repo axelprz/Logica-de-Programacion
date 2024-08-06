@@ -18,3 +18,5 @@
 | # | **Proyecto** | **Solución** |
 |---|-----------|----------|
 |01|[Proyecto de Calculadora](./Java/Explicacion%20Aplicaciones/ProyectoCalculadora/Aplicacion.md)|[📝](./Java/Aplicaciones%20Java/ProyectoCalculadora/src)
+|02|[Calculadora con Swing](./Java/Explicacion%20Aplicaciones/CalculadoraSwing/aplication.md)|[📝](./Java/Aplicaciones%20Java/CalculadoraSwing/src)
+|03|[Maquina de Snacks](./Java/Explicacion%20Aplicaciones/Snacks%20Machine/aplication.md)|[📝](./Java/Aplicaciones%20Java/Snacks%20Machine/src)
